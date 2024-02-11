@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f94d5ec-785b-43e6-b413-58c194984974" name="Changes" comment="" />
+    <list default="true" id="6f94d5ec-785b-43e6-b413-58c194984974" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Models.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,7 +29,9 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/piotr/PycharmProjects/Thesis project"
   }
 }]]></component>
   <component name="SharedIndexes">
